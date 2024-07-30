@@ -35,7 +35,7 @@ async def chat_with_model(user_request: UserRequest):
                 }]
             }"""
 
-    role_content = f"You are {agent}. Follow these commands {command} for this medicine the  .Output in dictionary with this format {json_format} remove without spaces without triple quotes."
+    role_content = f"You are {agent}. Follow these commands {command} for this medicine the  .Output in dictionary with this format {json_format} remove unwanted spaces without triple quotes."
     data = {
         "model": "meta-llama/Meta-Llama-3-8B-Instruct",
         "messages": [
