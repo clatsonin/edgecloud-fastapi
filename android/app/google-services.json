@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31513589496",
+    "project_id": "genical-c8bfc",
+    "storage_bucket": "genical-c8bfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31513589496:android:3b99490b80f1fa8b3ded0d",
+        "android_client_info": {
+          "package_name": "com.example.genical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtnhknss1JaXHiT8gaUtpWi6k9HvJCYR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
