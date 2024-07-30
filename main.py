@@ -5,7 +5,7 @@ import httpx
 app = FastAPI()
 
 # Define the URL and headers
-url = "https://llama38bcjb1a683a1-1076b8018dfc15d4.tec-s1.onthetaedgecloud.com/v1/chat/completions"
+url = "https://llama38bu7wgnb5wyg-6622d7b512eb2090.tec-s1.onthetaedgecloud.com/v1/chat/completions"
 headers = {
     "Content-Type": "application/json"
 }
