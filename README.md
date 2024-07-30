@@ -6,7 +6,7 @@ Welcome to Genical, where advanced image recognition meets medical tablets for i
 Genical utilizes advanced image recognition technology to provide users with instant, easy-to-understand information about any medical tablet from a photo. This repository contains the essential resources and Flutter files for our project.
 
 ## Use of Llama 3 in Genical
-In Genical, we have transitioned from using LangFlow with a Gemini-like language model to employing **Llama 3 (8B)** within the **Theta Edge Cloud**. This powerful language model enhances our capabilities, allowing Genical to deliver detailed information about medicines, including dosage, side effects, and usage instructions, in a clear and accessible manner. The deployment of Llama 3 in the cloud provides improved scalability and performance, ensuring a seamless user experience.
+In Genical, we  employing **Llama 3 (8B)** within the **Theta Edge Cloud**. This powerful language model enhances our capabilities, allowing Genical to deliver detailed information about medicines, including dosage, side effects, and usage instructions, in a clear and accessible manner. The deployment of Llama 3 in the cloud provides improved scalability and performance, ensuring a seamless user experience.
 
 ## Theta Edge Cloud Deployment
 For the deployment of Genical on the Theta Edge Cloud, please refer to the FastAPI code that has been developed specifically for this environment. This code facilitates the integration of the Llama 3 model, ensuring efficient processing and robust functionality for our application.
